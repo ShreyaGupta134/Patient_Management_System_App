@@ -17,7 +17,7 @@ import android.widget.Toast;
  * Created by User on 1/25/2017.
  */
 
-public class Text extends Fragment implements View.OnClickListener {
+public class Old_Records extends Fragment implements View.OnClickListener {
 
 
     TextView id_re;
